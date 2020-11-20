@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Static Page should render the static page 1`] = `
+<div>
+  <div
+    class="sc-pFZIQ riGkP"
+  >
+    <header
+      class="sc-gsTCUz etYDuf"
+    >
+      <div
+        class="sc-bdfBwQ gkIJkN"
+      >
+        Covid-19 Cases
+      </div>
+    </header>
+    <div
+      class="sc-jrAGrp cnVXXV"
+    >
+      <div
+        class="sc-kEjbxe gLIwce"
+      >
+        <div
+          class="sc-dlfnbm laaXGn"
+        >
+          <input
+            class="sc-jSgupP gLwTsS"
+            placeholder="Search by country"
+            value=""
+          />
+        </div>
+      </div>
+      
+    </div>
+  </div>
+</div>
+`;

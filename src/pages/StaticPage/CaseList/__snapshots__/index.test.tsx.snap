@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CaseList Component should render the component 1`] = `
+<div>
+  <div
+    class="sc-bdfBwQ"
+  >
+    <ul
+      data-testid="list"
+    />
+    <div />
+  </div>
+</div>
+`;
